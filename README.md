@@ -2,7 +2,7 @@
 
 ## Soluciones del Advent of Code 2022
 
-Estas son mis soluciones del AOC 2022 escritas en Python, no ocupo mucho Python en la vida cotidiana pero decidí
+Estas son mis soluciones del [AOC 2022](https://adventofcode.com/2022) escritas en Python, no ocupo mucho Python en la vida cotidiana pero decidí
 ocupar python para este AOC para así practicar un poco. No pretendo que estas soluciones sean las mejores por ningún
 motivo.
 
